@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://192.168.49.2:32000/admin";
+const BASE_URL = "https://junktrade-backend.azurewebsites.net/admin";
 
 
 class AdminService {
